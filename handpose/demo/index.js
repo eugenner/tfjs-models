@@ -17,6 +17,7 @@
 
 // import * as tfwebgpu from '@tensorflow/tfjs-backend-webgpu';
 import * as handpose from '@tensorflow-models/handpose';
+import * as tf from '@tensorflow/tfjs-core';
 import * as tfjsWasm from '@tensorflow/tfjs-backend-wasm';
 import {version_wasm} from '@tensorflow/tfjs-backend-wasm';
 
